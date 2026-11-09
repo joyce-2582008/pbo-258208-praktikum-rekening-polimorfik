@@ -1,7 +1,6 @@
 public class BankPolimorfik {
     public static void main(String[] args) {
-        // Menjalankan program utama polimorfisme rekening bank
-        // Ketentuan 8: Uji coba instansiasi abstract class
+        // Ketentuan 8: Uji coba instansiasi abstract class Rekening
         // Rekening r = new Rekening("999", "Eko", 0);
         // Pesan error: java: Rekening is abstract; cannot be instantiated
 
